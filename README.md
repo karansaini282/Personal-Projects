@@ -13,7 +13,7 @@
 * Spatial correlation between MTA Turnstile exits and NYC Robberies
   * Jupyter notebooks for data processing
   * Jupyter notebook for final analysis report
-* Analysis Twitter Influence Campaigns using IRA data
+* Analysis of Twitter Influence Campaigns using IRA data
   * Jupyter Notebooks for clustering Twitter data
   * Code for final Python App written using Flask, Bokeh, Bootstrap and Heroku
   * https://throwback-2016.herokuapp.com/
