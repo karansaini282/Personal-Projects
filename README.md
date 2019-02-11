@@ -16,7 +16,7 @@
 * Analysis of Twitter Influence Campaigns using IRA data
   * Jupyter Notebooks for clustering Twitter data
   * Code for final Python App written using Flask, Bokeh, Bootstrap and Heroku
-  * https://throwback-2016.herokuapp.com/
+  * https://throwback-2016.herokuapp.com/ (Please open in Chrome Desktop for interactive visuals)
 * Web Scraping Scripts written using Selenium
   * Scraper to download Google Images
   * Scraper to download Restaurant Popular Times
